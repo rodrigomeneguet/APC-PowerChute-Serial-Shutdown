@@ -2,7 +2,7 @@
 
 UPS management, graceful shutdown, and energy management software for servers and workstations using dedicated serial or USB connections.
 
-<[https://www.apc.com/us/en/product-range/61932-powerchute-business-edition/](https://www.se.com/br/pt/product-range/137943580-powerchute-serial-shutdown/#products)>
+<[https://www.se.com/br/pt/product-range/137943580-powerchute-serial-shutdown/#products/](https://www.se.com/br/pt/product-range/137943580-powerchute-serial-shutdown/#products)>
 
 **This build is for evaluation purposes only and must not violate any APC license restrictions. Use at your own risk.**
 
