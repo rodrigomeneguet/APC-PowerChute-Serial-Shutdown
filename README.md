@@ -67,4 +67,4 @@ docker run \
 ```
 
 ## Further help and docs
-For any help specific to APC please have a look at <https://www.apc.com/us/en/product-range/61932-powerchute-business-edition/#documents>
+For any help specific to APC please have a look at <https://www.se.com/br/pt/product-range/137943580-powerchute-serial-shutdown/#documents>
